@@ -1,0 +1,132 @@
+{
+  "iconSets": {
+    "CreditCard": [
+      {
+        "name": "Visa",
+        "key": "CreditCardVisaIcon",
+        "path": "/assets/walletIcons/CreditCardVisa.png",
+        "isPremium": false
+      },
+      {
+        "name": "MasterCard",
+        "key": "CreditCardMasterIcon",
+        "path": "../../assets/walletIcons/CreditCardMaster.png",
+        "isPremium": false
+      },
+      {
+        "name": "Amex",
+        "key": "CreditCardAmexIcon",
+        "path": "../../assets/walletIcons/CreditCardAmex.png",
+        "isPremium": true
+      },
+      {
+        "name": "Discover",
+        "key": "CreditCardDiscoverIcon",
+        "path": "../../assets/walletIcons/CreditCardDiscover.png",
+        "isPremium": true
+      },
+      {
+        "name": "UnionPay",
+        "key": "CreditCardUnionPayIcon",
+        "path": "../../assets/walletIcons/CreditCardUnionPay.png",
+        "isPremium": true
+      }
+    ],
+    "Savings": [
+      {
+        "name": "Bank",
+        "key": "SavingsBankIcon",
+        "path": "../../assets/walletIcons/SavingsBank.png",
+        "isPremium": false
+      },
+      {
+        "name": "Piggy Bank",
+        "key": "SavingsPiggyIcon",
+        "path": "../../assets/walletIcons/Savings.png",
+        "isPremium": false
+      },
+      {
+        "name": "Vault",
+        "key": "SavingsVaultIcon",
+        "path": "../../assets/walletIcons/SavingsVault.png",
+        "isPremium": true
+      },
+      {
+        "name": "Safe",
+        "key": "SavingsSafeIcon",
+        "path": "../../assets/walletIcons/SavingsSafe.png",
+        "isPremium": true
+      },
+      {
+        "name": "Investment",
+        "key": "SavingsInvestmentIcon",
+        "path": "../../assets/walletIcons/SavingsInvestment.png",
+        "isPremium": true
+      }
+    ],
+    "Cash": [
+      {
+        "name": "Wallet",
+        "key": "CashWalletIcon",
+        "path": "../../assets/walletIcons/CashWallet.png",
+        "isPremium": false
+      },
+      {
+        "name": "Money Bag",
+        "key": "CashMoneyBagIcon",
+        "path": "../../assets/walletIcons/CashMoneyBag.png",
+        "isPremium": false
+      },
+      {
+        "name": "Coins",
+        "key": "CashCoinsIcon",
+        "path": "../../assets/walletIcons/CashCoins.png",
+        "isPremium": true
+      },
+      {
+        "name": "Bills",
+        "key": "CashBillsIcon",
+        "path": "../../assets/walletIcons/Cash.png",
+        "isPremium": true
+      },
+      {
+        "name": "Cash Stack",
+        "key": "CashStackIcon",
+        "path": "../../assets/walletIcons/CashStack.png",
+        "isPremium": true
+      }
+    ],
+    "EWallet": [
+      {
+        "name": "PayPal",
+        "key": "EWalletPayPalIcon",
+        "path": "../../assets/walletIcons/EWalletPayPal.png",
+        "isPremium": false
+      },
+      {
+        "name": "Venmo",
+        "key": "EWalletVenmoIcon",
+        "path": "../../assets/walletIcons/EWalletVenmo.png",
+        "isPremium": false
+      },
+      {
+        "name": "Apple Pay",
+        "key": "EWalletApplePayIcon",
+        "path": "../../assets/walletIcons/EWalletApplePay.png",
+        "isPremium": true
+      },
+      {
+        "name": "Google Pay",
+        "key": "EWalletGooglePayIcon",
+        "path": "../../assets/walletIcons/EWalletGooglePay.png",
+        "isPremium": true
+      },
+      {
+        "name": "Crypto",
+        "key": "EWalletCryptoIcon",
+        "path": "../../assets/walletIcons/EWalletCrypto.png",
+        "isPremium": true
+      }
+    ]
+  }
+}

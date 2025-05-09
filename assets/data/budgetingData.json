@@ -1,0 +1,81 @@
+{
+  "budgetData": [
+    {
+      "month": "April",
+      "year": 2025,
+      "totalBudget": 15000.00,
+      "totalBalance": 600474.96,
+      "totalSpent": 10500.00,
+      "categories": [
+        {
+          "id": 3,
+          "title": "Utilities",
+          "icon": "ExpenseUtilitiesIcon",
+          "amount": 1500.00,
+          "spent": 0.00,
+          "remaining": 1500.00,
+          "dueDate": "2025-04-20",
+          "status": "overdue"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": 2025,
+      "totalBudget": 14000.00,
+      "totalBalance": 600474.96,
+      "totalSpent": 11000.00,
+      "categories": [
+        {
+          "id": 4,
+          "title": "House Rent",
+          "icon": "ExpenseRentIcon",
+          "amount": 12000.00,
+          "spent": 10000.00,
+          "remaining": 2000.00,
+          "dueDate": "2025-03-10",
+          "status": "overdue"
+        },
+        {
+          "id": 5,
+          "title": "Groceries",
+          "icon": "ExpenseGroceriesIcon",
+          "amount": 2500.00,
+          "spent": 1000.00,
+          "remaining": 1500.00,
+          "dueDate": "2025-03-31",
+          "status": "inactive"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": 2025,
+      "totalBudget": 16000.00,
+      "totalBalance": 600474.96,
+      "totalSpent": 0.00,
+      "categories": [
+        {
+          "id": 6,
+          "title": "House Rent",
+          "icon": "ExpenseRentIcon",
+          "amount": 12000.00,
+          "spent": 0.00,
+          "remaining": 12000.00,
+          "dueDate": "2025-05-10",
+          "status": "inactive"
+        },
+        {
+          "id": 7,
+          "title": "Utilities",
+          "icon": "ExpenseUtilitiesIcon",
+          "amount": 2000.00,
+          "spent": 0.00,
+          "remaining": 2000.00,
+          "dueDate": "2025-05-20",
+          "status": "inactive"
+        }
+      ]
+    }
+  ]
+}

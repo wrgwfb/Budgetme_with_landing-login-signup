@@ -1,0 +1,68 @@
+{
+  "iconSets": {
+    "Income": [
+      {
+        "name": "Paycheck",
+        "key": "IncomePaycheckIcon",
+        "path": "../../assets/categoryIcons/IncomePaycheck.png",
+        "isPremium": false
+      },
+      {
+        "name": "Bonus",
+        "key": "IncomeBonusIcon",
+        "path": "../../assets/categoryIcons/IncomeBonus.png",
+        "isPremium": false
+      },
+      {
+        "name": "Gift",
+        "key": "IncomeGiftIcon",
+        "path": "../../assets/categoryIcons/IncomeGift.png",
+        "isPremium": true
+      },
+      {
+        "name": "Investment",
+        "key": "IncomeInvestmentIcon",
+        "path": "../../assets/categoryIcons/IncomeInvestment.png",
+        "isPremium": true
+      },
+      {
+        "name": "Freelance",
+        "key": "IncomeFreelanceIcon",
+        "path": "../../assets/categoryIcons/IncomeFreelance.png",
+        "isPremium": true
+      }
+    ],
+    "Expense": [
+      {
+        "name": "Utilities",
+        "key": "ExpenseUtilitiesIcon",
+        "path": "../../assets/categoryIcons/ExpenseUtilities.png",
+        "isPremium": false
+      },
+      {
+        "name": "Groceries",
+        "key": "ExpenseGroceriesIcon",
+        "path": "../../assets/categoryIcons/ExpenseGroceries.png",
+        "isPremium": false
+      },
+      {
+        "name": "Rent",
+        "key": "ExpenseRentIcon",
+        "path": "../../assets/categoryIcons/ExpenseRent.png",
+        "isPremium": true
+      },
+      {
+        "name": "Entertainment",
+        "key": "ExpenseEntertainmentIcon",
+        "path": "../../assets/categoryIcons/ExpenseEntertainment.png",
+        "isPremium": true
+      },
+      {
+        "name": "Travel",
+        "key": "ExpenseTravelIcon",
+        "path": "../../assets/categoryIcons/ExpenseTravel.png",
+        "isPremium": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "walletScreen": {
+    "accountBalance": "PHP 201,159,092.21",
+    "totalExpenses": "PHP 214,014.21",
+    "totalIncome": "PHP 914,014.21",
+    "wallets": [
+      {
+        "id": 1,
+        "title": "Visa Card",
+        "balance": 325121.24,
+        "icon": "CreditCardVisaIcon",
+        "type": "Credit Card"
+      },
+      {
+        "id": 2,
+        "title": "Cash",
+        "balance": 215111.24,
+        "icon": "CashWalletIcon",
+        "type": "Cash"
+      },
+      {
+        "id": 3,
+        "title": "Gcash",
+        "balance": 25121.24,
+        "icon": "EWalletPayPalIcon",
+        "type": "E-Wallet"
+      },
+      {
+        "id": 4,
+        "title": "Ipon",
+        "balance": 35121.24,
+        "icon": "SavingsBankIcon",
+        "type": "Savings"
+      }
+    ],
+    "incomeCategories": [
+      {
+        "id": 1,
+        "title": "Salary",
+        "icon": "IncomePaycheckIcon",
+        "type": "Income",
+        "value": 50000.00
+      },
+      {
+        "id": 2,
+        "title": "Year-End Bonus",
+        "icon": "IncomeBonusIcon",
+        "type": "Income",
+        "value": 15000.00
+      },
+      {
+        "id": 3,
+        "title": "Birthday Gift",
+        "icon": "IncomeGiftIcon",
+        "type": "Income",
+        "value": 5000.00
+      },
+      {
+        "id": 4,
+        "title": "Stock Dividends",
+        "icon": "IncomeInvestmentIcon",
+        "type": "Income",
+        "value": 12000.00
+      },
+      {
+        "id": 5,
+        "title": "Freelance Project",
+        "icon": "IncomeFreelanceIcon",
+        "type": "Income",
+        "value": 8000.00
+      }
+    ],
+    "expenseCategories": [
+      {
+        "id": 1,
+        "title": "Water Bill",
+        "icon": "ExpenseUtilitiesIcon",
+        "type": "Expense",
+        "value": 1500.00
+      },
+      {
+        "id": 2,
+        "title": "Groceries",
+        "icon": "ExpenseGroceriesIcon",
+        "type": "Expense",
+        "value": 3000.00
+      },
+      {
+        "id": 3,
+        "title": "Apartment Rent",
+        "icon": "ExpenseRentIcon",
+        "type": "Expense",
+        "value": 12000.00
+      },
+      {
+        "id": 4,
+        "title": "Movie Night",
+        "icon": "ExpenseEntertainmentIcon",
+        "type": "Expense",
+        "value": 1000.00
+      },
+      {
+        "id": 5,
+        "title": "Vacation Trip",
+        "icon": "ExpenseTravelIcon",
+        "type": "Expense",
+        "value": 25000.00
+      }
+    ]
+  },
+  "homeScreen": {
+    "accountBalance": "PHP 201,159,092.21",
+    "chartData": [
+      {
+        "month": "Jan",
+        "value": 10
+      },
+      {
+        "month": "Feb",
+        "value": 80
+      },
+      {
+        "month": "Mar",
+        "value": 60
+      },
+      {
+        "month": "Apr",
+        "value": 20
+      },
+      {
+        "month": "Jun",
+        "value": 40
+      }
+    ]
+  }
+}
